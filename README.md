@@ -56,7 +56,7 @@ Coding-Academy-Legend-of-the-Web-Verse/
 └── name_projectname/      # Member Project Folder (e.g., rohan_weather-app)
     ├── assets/            # Images, videos, or demo screenshots
     ├── README.md          # Documentation specific to this project
-    └── (Source Code)      # The actual project files (html, css, js, etc.)
+    └── (Source Code in a folder)      # The actual project files (html, css, js, etc.)
 ```
 
 
