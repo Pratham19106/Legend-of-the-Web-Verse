@@ -48,5 +48,5 @@ Additionally html and css are used for minimal frontend and styling.
 
 <video width="640" height="480" controls>
   <source src="assets/demo_vid.mp4" type="video/mp4">
-  Your browser does not support the video tag.
+  Video
 </video>
