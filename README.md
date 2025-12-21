@@ -1,22 +1,96 @@
-# Coding-Academy-Legend-of-the-Web-Verse
-Web dev educational repo for members of CA, VJTI
+<div align="center">
 
-## Quickstart
+# 🕸️ Coding Academy: Legend of the Web-Verse
 
-1. Fork and Clone this repo Locally
-2. Create your own branch
-3. Create a directory with format
-    ``` name_projectname```
-4. Create a ```README.md``` within this directory to explain your project. Format is given at [demo readme](Awwab_Wadekar_Linkly_URL_shortener/README.md). Store images/ videos in ```assets``` directory in your project directory.
-5. Create a ```.gitignore``` file ([example](Awwab_Wadekar_Linkly_URL_shortener/.gitignore)) as well to remove unnecessary files such as ```node_modules, _pycache__, .db ,``` etc. files from being pushed. Please do not use the ```*``` feature as this will cause your gitignore to affect other projects which may be conflicting in some cases.
-6. Please keep your code readable, add minimal but useful comments, do not create too long files and use formatters like black(for python).
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
 
-## Main goal
+<br>
 
-Our aim is simple, work with the community to help each other get better at web development.
+> **"Every great developer starts with a single line of code. Welcome to the Verse."**
 
-This is done by creating projects in specific formatted directories that showcase some feature used in common web applications. these projects mainly show a single scalable component of a large scale applications, or even common system design patterns.
+<p>
+  The premier educational repository for members of the <b>Coding Academy, VJTI</b>.<br>
+  A collaborative library of scalable web components, short projects, and system design patterns.
+</p>
 
-Members are encouraged to submit their own ideas and show their creativity. Use of Generative AI is allowed as long as the format of project is followed. However it is highly recommended that the member at least write the README file of their respective project on their own, with only taking the help of AI for syntax.
+</div>
 
-However, with time issues will also be put on Github for members to work on.
+---
+
+## 🎯 Main Goal
+
+Our aim is simple: **Work with the community to help each other master the Web.**
+
+This repository serves as a knowledge base where members act as both creators and learners. We adhere to the following principles:
+
+1.  **Scalable Components:** Projects that showcase specific logic or UI features used in large-scale applications.
+2.  **System Design:** Practical implementations of theoretical web concepts.
+3.  **Creativity:** Members are encouraged to bring unique ideas to life.
+
+---
+
+## 🤝 How to Contribute
+
+We welcome contributions from all CA members! Whether you are fixing a bug, adding a brand new project, or optimizing existing code, your input is valuable.
+
+To ensure the repository remains organized and high-quality for everyone, we have a detailed set of rules regarding directory setup and branch naming.
+
+👉 **[Please read the CONTRIBUTING.md file before pushing any code.](./CONTRIBUTING.md)**
+
+---
+
+## 📂 Repository Structure
+
+The repository is organized to keep individual member projects distinct from core repository files.
+
+```text
+Coding-Academy-Legend-of-the-Web-Verse/
+├── CONTRIBUTING.md        # Guidelines for contributing (Read this first!)
+├── LICENSE                # Open source license
+├── README.md              # This file
+├── ...
+└── name_projectname/      # Member Project Folder (e.g., rohan_weather-app)
+    ├── assets/            # Images, videos, or demo screenshots
+    ├── README.md          # Documentation specific to this project
+    └── (Source Code in a folder)      # The actual project files (html, css, js, etc.)
+```
+
+
+## 🤖 Guidelines & AI Policy
+
+### Code Quality
+* **Readability:** Keep code readable and add minimal but useful comments.
+* **Formatting:** Please use formatters like **Prettier** (for JS/HTML) or **Black** (for Python) before submitting.
+* **Efficiency:** Do not create monolithic files. Break code into modules where possible.
+
+### Generative AI
+* ✅ **Allowed:** Using AI to debug errors, suggest syntax, or generate boilerplate code.
+* ⚠️ **Restricted:** It is **highly recommended** that you write the `README.md` file of your project yourself. Documentation is how you prove you understand the code. Use AI only for grammar checks.
+
+---
+
+## 🔮 Future Scope
+
+As the Web-Verse expands, we plan to introduce:
+* **Issue Tracking:** Specific challenges and bug fixes posted on GitHub for members to solve.
+* **Code Reviews:** Seniors will review PRs to provide industry-standard feedback.
+
+---
+
+## 🌟 Contributors
+
+A huge shoutout to the legends who have contributed to the Web-Verse. Click on an avatar to view their GitHub profile!
+
+<a href="https://github.com/VJTI%20Coding%20Academy/Coding-Academy-Legend-of-the-Web-Verse/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=VJTI%20Coding%20Academy/Coding-Academy-Legend-of-the-Web-Verse" />
+</a>
+
+---
+
+<p align="center">
+  Designed with ❤️ by <b>The Coding Academy, VJTI</b>
+</p>
