@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Wanna compare your Lc Rating with your friends while learning basic CRUD, and API calls? Say no more and see this short concise flask project.
+Wanna compare your Leetcode Rating with your friends while learning basic CRUD, and API calls? Say no more and see this short concise flask project.
 
 ## Setup
 
