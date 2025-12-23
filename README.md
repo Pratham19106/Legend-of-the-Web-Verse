@@ -48,12 +48,12 @@ To ensure the repository remains organized and high-quality for everyone, we hav
 The repository is organized to keep individual member projects distinct from core repository files.
 
 ```text
-Coding-Academy-Legend-of-the-Web-Verse/
+Legend-of-the-Web-Verse/
 ├── CONTRIBUTING.md        # Guidelines for contributing (Read this first!)
 ├── LICENSE                # Open source license
 ├── README.md              # This file
 ├── ...
-└── name_projectname/      # Member Project Folder (e.g., rohan_weather-app)
+└── projectname/      # Member Project Folder (e.g., weather-app)
     ├── assets/            # Images, videos, or demo screenshots
     ├── README.md          # Documentation specific to this project
     └── (Source Code in a folder)      # The actual project files (html, css, js, etc.)

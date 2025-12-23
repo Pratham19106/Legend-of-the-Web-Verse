@@ -15,7 +15,7 @@ Click the **Fork** button in the top-right corner of this page to create a copy 
 Clone your **forked** copy to your local machine (replace `YOUR-USERNAME` with your actual GitHub username):
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/Coding-Academy-Legend-of-the-Web-Verse.git
+git clone https://github.com/YOUR-USERNAME/Legend-of-the-Web-Verse.git
 ```
 
 ### 3. Navigate to the Directory
@@ -26,7 +26,7 @@ cd Coding-Academy-Legend-of-the-Web-Verse
 ### 4. Configure Upstream Remote
 To keep your local repository updated with the main VJTI repository, you need to add it as an "upstream" remote. This prevents merge conflicts later.
 ```
-git remote add upstream https://github.com/VJTI-Coding-Academy/Coding-Academy-Legend-of-the-Web-Verse.git
+git remote add upstream https://github.com/VJTI-Coding-Academy/Legend-of-the-Web-Verse.git
 ```
 ### 🔄 How to Sync (Important!)
 Before you start working on any new project, always sync your local repository with the upstream (VJTI) repository to get the latest changes from other students.
@@ -61,7 +61,7 @@ You must follow this folder structure strictly. Create a folder in the root dire
 
 ### 📂 Visual Structure:
 ```
-Coding-Academy-Legend-of-the-Web-Verse/
+Legend-of-the-Web-Verse/
 ├── ...
 └── yourname_projectname/        <-- YOUR MAIN FOLDER
     ├── source_code/             <-- Sub-folder 
