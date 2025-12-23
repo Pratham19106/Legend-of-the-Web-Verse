@@ -45,7 +45,7 @@ git merge upstream/main
 ---
 ## 🛠️ Creating Your Project
 ### 1. Create a New Branch
-Never push directly to the `main` branch. Create a new `branch` for your specific project. Naming Convention: firstname_projectname (e.g., Kebab_weather-app)
+Never push directly to the `main` branch. Create a new `branch` for your specific project. Naming Convention: projectname (eg., Kebab_news-app)
 ```
 git checkout -b <your_branch_name>
 ```
@@ -63,7 +63,7 @@ You must follow this folder structure strictly. Create a folder in the root dire
 ```
 Legend-of-the-Web-Verse/
 ├── ...
-└── yourname_projectname/        <-- YOUR MAIN FOLDER
+└── projectname/        <-- YOUR MAIN FOLDER
     ├── source_code/             <-- Sub-folder 
     ├── CONTRIBUTOR.md          <-- List who worked on 
     └── README.md                <-- Explanation of your project
@@ -82,7 +82,7 @@ git push origin <your_branch_name>
 ### 📮 Submitting a Pull Request (PR)
 1. Go to project repo on `GitHub`.
 2. You will see a banner saying "Compare & pull request". Click it.
-3. Ensure the base repository is VJTI-Coding-Academy/Coding-Academy-Legend-of-the-Web-Verse and the branch is main.
+3. Ensure the base repository is VJTI-Coding-Academy/Legend-of-the-Web-Verse and the branch is main.
 4. Write a brief title and description of what you added.
 5. Click Create Pull Request.
 
